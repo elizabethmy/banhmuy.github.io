@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 name: Le Thi Diem My, Dev
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
